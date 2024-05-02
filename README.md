@@ -3,6 +3,7 @@ This repository contains the code for individual assignments of compilers lab (C
 
 ## Assignments
 
+```bash
 compilers_lab
 │   README.md
 │   LICENSE
@@ -12,5 +13,6 @@ compilers_lab
 └───assignment4
 └───assignment5
 └───assignment6
+'''
         
  
