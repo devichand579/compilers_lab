@@ -13,6 +13,4 @@ compilers_lab
 └───assignment4
 └───assignment5
 └───assignment6
-'''
-        
- 
+```
